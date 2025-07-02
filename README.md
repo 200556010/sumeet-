@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Sumeet and I'm a Full Stack Developer from India 🇮🇳</p>
+<p align="left">My name is Sumeet and I'm a Full Stack Developer from CANADA</p>
 
 ###
 
